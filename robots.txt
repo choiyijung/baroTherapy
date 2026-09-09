@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://k-nationwidemassage1004.store/sitemap.xml
+Sitemap: https://barotherapy.netlify.app/sitemap.xml
